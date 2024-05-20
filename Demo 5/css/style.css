@@ -99,7 +99,7 @@ body {
   margin: 10px 30px;
   padding: 0;
   padding-bottom: 3px;
-  color: #ffffff;
+  color: #a53939;
   text-align: center;
   position: relative;
   text-transform: uppercase;
@@ -151,7 +151,7 @@ a:focus {
 }
 
 .user_option a {
-  color: #ffffff;
+  color: #503333;
   margin: 10px 30px;
 }
 
@@ -180,7 +180,7 @@ a:focus {
   font-size: 22px;
   text-transform: uppercase;
   font-weight: bold;
-  color: #ffffff;
+  color: #2f00ff;
   position: relative;
   z-index: 3;
 }
@@ -210,7 +210,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #ffffff;
+  color: #008327;
 }
 
 .slider_section #carouselExampleIndicators {
@@ -256,8 +256,8 @@ a:focus {
   display: inline-block;
   padding: 8px 35px;
   background-color: transparent;
-  border: 1.5px solid #ffffff;
-  color: #ffffff;
+  border: 1.5px solid #ff9ed3;
+  color: #a412b8;
   border-radius: 0px;
   -webkit-transition: -webkit-transform 0.3s;
   transition: -webkit-transform 0.3s;
@@ -268,7 +268,7 @@ a:focus {
 }
 
 .slider_section .detail-box a:hover {
-  background-color: #ffffff;
+  background-color: #772424;
   color: #000000;
 }
 
@@ -503,7 +503,7 @@ a:focus {
   padding: 10px 65px;
   outline: none;
   border: none;
-  color: #ffffff;
+  color: #068043;
   background: #ff2953;
   margin: 45px 0 0 auto;
   text-transform: uppercase;
